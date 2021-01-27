@@ -1,28 +1,54 @@
 {
   "bg": "https://wallpapercave.com/wp/v4JbU1G.jpg",
-  "title": "Quiz da quebrada",
+  "title": "Quiz da Quebrada",
   "description": "Teste os seus conhecimentos sobre algumas gírias da quebrada e tente, da próxima vez, não ficar perdido quando alguém mandar um salve para você.",
   "questions": [
     {
       "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "title": "O que é \"Salve\"?",
       "description": "Essa é pra aquecer",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Um pedido de socorro",
+        "Uma despedida do tipo \"Falou\"",
+        "Uma saudação do tipo \"Eai\"",
+        "Nenhuma das alternativas"
       ]
     },
     {
       "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "title": "Defina \"Demoro\".",
+      "description": "Essa é comum",
       "answer": 0,
       "alternatives": [
-        "background: linear-gradient(#e66465, #9198e5);",
-        "background: gradient(#e66465, #9198e5);"
+        "Uma afirmação do tipo \"Pode deixar\"",
+        "Uma reclamação que algo demorou muito",
+        "Uma observação sobre a demora de algo",
+        "Nenhuma das alternativas"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "\"Me passa o número do seu biriri\". O que é biriri?",
+      "description": "Essa é incomum, porém muito engraçado",
+      "answer": 2,
+      "alternatives": [
+        "Casa",
+        "Telefone fixo",
+        "Smartphone",
+        "Nenhuma das alternativas"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "\"Eai mano, dahora?\". Nessa pergunta, defina dahora.",
+      "description": "Essa é uma palavra muito versátil.",
+      "answer": 1,
+      "alternatives": [
+        "Utilizado para perguntar as horas",
+        "Semelhante a \"tudo bem?\"",
+        "Semelhante a \"vai dormir?\"",
+        "Nenhuma das alternativas"
       ]
     }
   ],
