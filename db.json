@@ -4,7 +4,7 @@
   "description": "Teste os seus conhecimentos sobre algumas gírias da quebrada e tente, da próxima vez, não ficar perdido quando alguém mandar um salve para você.",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "image": "https://media.giphy.com/media/KzocJNiEIO8uLtQTdx/giphy.gif",
       "title": "O que é \"Salve\"?",
       "description": "Essa é pra aquecer",
       "answer": 2,
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://media.giphy.com/media/llJ8MmpEEbRKCjh9tS/giphy.gif",
       "title": "Defina \"Demoro\".",
       "description": "Essa é comum",
       "answer": 0,
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://media.giphy.com/media/H2zjUHWTduAnYnPGIj/giphy.gif",
       "title": "\"Me passa o número do seu biriri\". O que é biriri?",
       "description": "Essa é incomum, porém muito engraçado",
       "answer": 2,
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://media.giphy.com/media/9xjSzLQw5SijKe8Atn/giphy.gif",
       "title": "\"Eai mano, dahora?\". Nessa pergunta, defina dahora.",
       "description": "Essa é uma palavra muito versátil.",
       "answer": 1,
@@ -50,10 +50,25 @@
         "Semelhante a \"vai dormir?\"",
         "Nenhuma das alternativas"
       ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "A janela da minha \"goma\" quebrou. Defina \"goma\"",
+      "description": "Não é bala de goma HAHAHAHA!",
+      "answer": 3,
+      "alternatives": [
+        "Sala",
+        "Nenhuma das alternativas",
+        "Escritório",
+        "Casa"
+      ]
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-base.alura-challenges.vercel.app/",
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/",
+    "https://aluraquiz-coffee.leonardot07.vercel.app/"
   ],
   "theme": {
     "colors": {
